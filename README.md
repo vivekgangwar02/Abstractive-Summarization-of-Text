@@ -1,2 +1,2 @@
 # Abstractive-Summarization-of-Text
-Abstractive text summarization using Bidirectional LSTM and Attention Model.
+Abstractive text summarization using Bidirectional LSTMs and Attention Model.
